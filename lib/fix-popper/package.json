@@ -1,0 +1,9 @@
+{
+  "name": "fix-popper",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "broccoli-string-replace": "^0.1.2"
+  }
+}
